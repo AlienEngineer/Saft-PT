@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaftPT", "SaftPT.csproj", "{673891D0-5BA0-468F-BF10-F466D7EABBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaftPT.Tests", "..\SaftPT.Tests\SaftPT.Tests.csproj", "{BD6641D2-056F-42E8-8B5B-0E7B2BC70164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673891D0-5BA0-468F-BF10-F466D7EABBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673891D0-5BA0-468F-BF10-F466D7EABBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673891D0-5BA0-468F-BF10-F466D7EABBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673891D0-5BA0-468F-BF10-F466D7EABBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6641D2-056F-42E8-8B5B-0E7B2BC70164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6641D2-056F-42E8-8B5B-0E7B2BC70164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6641D2-056F-42E8-8B5B-0E7B2BC70164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6641D2-056F-42E8-8B5B-0E7B2BC70164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
